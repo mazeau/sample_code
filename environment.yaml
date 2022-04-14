@@ -1,0 +1,8 @@
+name: sim_env
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.8
+  - cantera >=2.5
+  - matplotlib
+  - joblib >=1.1
